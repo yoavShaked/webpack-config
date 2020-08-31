@@ -1,1 +1,1 @@
-This is a Readme file.
+Webpack config for development and production.
